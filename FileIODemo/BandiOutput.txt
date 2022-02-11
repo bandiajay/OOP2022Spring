@@ -1,0 +1,6 @@
+Course{courseID=44542, courseTitle=Object Oriented Programming, creditHrs=3}
+Course{courseID=44563, courseTitle=Web Applications and Services, creditHrs=3}
+Course{courseID=44613, courseTitle=Data Visualization, creditHrs=3}
+Course{courseID=44642, courseTitle=Patterns and Frameworks, creditHrs=3}
+Course{courseID=44691, courseTitle=Graduate Directed Project -I, creditHrs=3}
+Course{courseID=44999, courseTitle=Plant Soil Sciences, creditHrs=5}

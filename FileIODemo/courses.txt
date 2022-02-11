@@ -1,0 +1,18 @@
+44542
+Object Oriented Programming
+3
+44563
+Web Applications and Services
+3
+44613
+Data Visualization
+3
+44642
+Patterns and Frameworks
+3
+44691
+Graduate Directed Project -I
+3
+44999
+Plant Soil Sciences
+5
